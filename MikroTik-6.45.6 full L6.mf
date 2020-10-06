@@ -1,0 +1,3 @@
+SHA256(MikroTik-6.45.6 full L6.ovf)= ec2af5fff2da1c0d26219a2463ce9b2e8e0dda48c34801c665529ada8241f3ff
+SHA256(MikroTik-6.45.6_full_L6-disk1.vmdk)= 01c0fd85a57917eba757a597f7092bf1f3104cb1c91e1179f6cb62043405c377
+SHA256(MikroTik-6.45.6_full_L6-disk2.vmdk)= 106efc134d943cddb8dc3a6aa9ee1a6e6ef6a8083b52f91a2870d33a723ba5b0
